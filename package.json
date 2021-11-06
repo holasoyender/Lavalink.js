@@ -1,12 +1,12 @@
 {
-  "name": "heroku-lavalink",
+  "name": "lavalinkjs",
   "version": "1.0.1",
-  "description": "",
+  "description": "Lavalink para PM2/Heroku/...",
   "main": "bootstrap.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "holasoyender",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.1"
