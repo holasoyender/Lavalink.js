@@ -1,5 +1,5 @@
 server: # REST and WS server
-  port: 8080
+  port: 80
   address: localhost
 lavalink:
   server:
