@@ -1,20 +1,18 @@
 {
-    "name": "heroku-lavalink",
-    "description": "lavalink server",
+    "name": "lavalinkjs",
+    "description": "Lavalink para PM2/Heroku/...",
     "keywords":[
         "lavalink",
-        "wavelink",
-        "discord.py",
         "discord.js"
     ],
-    "repository": "https://github.com/KareemRS/heroku-lavalink.git",
+    "repository": "https://github.com/holasoyender/Lavalink.js.git",
     "env": {
         "PASS": {
-            "description": "The password change this to whatever you want it to be.",
+            "description": "La contraseña que tienes que cambiar.",
             "value": "youshallnotpass"
         },
         "JAVA_TOOL_OPTIONS": {
-            "description": "This sets the ram to max *don't edit* this variable",
+            "description": "Cosas de la memoria RAM, (no tocar)",
             "value": "-XX:+UseContainerSupport -Xmx500m -Xss256k -XX:CICompilerCount=2 -Dfile.encoding=UTF-8"
         }
     },
