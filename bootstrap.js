@@ -7,11 +7,11 @@ console.log("Con amor de holasoyender <33")
 let application = fs.readFileSync("./application.yml", "utf8")
 
 if (process.env.PORT) {
-    application = application.replace("DYNAMICPORT", process.env.PORT)
+    application = application.replace("8080", process.env.PORT)
 }
 
 if (process.env.PASS) {
-    application = application.replace("youshallnotpass", process.env.PASS)
+    application = application.replace("holasoyender", process.env.PASS)
 }
 fs.writeFileSync("./application.yml", application)
 
