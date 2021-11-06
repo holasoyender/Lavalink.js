@@ -1,6 +1,6 @@
 {
   "name": "lavalinkjs",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Lavalink para PM2/Heroku/...",
   "main": "bootstrap.js",
   "scripts": {
