@@ -2,6 +2,8 @@
 const fs = require("fs")
 const fetch = require("node-fetch")
 
+console.log("Con amor de holasoyender <33")
+
 let application = fs.readFileSync("./application.yml", "utf8")
 
 if (process.env.PORT) {
