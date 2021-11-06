@@ -29,3 +29,7 @@ Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 **3** Ejecutar el instalador - ```sudo bash nodesource_setup.sh```
 
 **4** Instalar NodeJS - ```sudo apt install nodejs```
+
+## Instalar PM2 
+
+**1** Instalar PM2 desde NPM - ```npm i -g pm2```
