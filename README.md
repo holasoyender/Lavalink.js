@@ -2,12 +2,10 @@
 
 Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 
-## Ubuntu
+## Ubuntu / PM2
 
-```git clone https://github.com/holasoyender/Lavalink.js.git```
+**1** Clonar el repositorio de GitHub - ```git clone https://github.com/holasoyender/Lavalink.js.git```
 
-```cd Lavalink.js```
+**2** Entrar en la carpeta e instalar dependencias - ```cd Lavalink.js && npm install```
 
-```npm install```
-
-```pm2 start bootstrap.js --name Lavalink --no-autorestart```
+**3** Iniciar PM2 como Lavalink - ```pm2 start bootstrap.js --name Lavalink --no-autorestart```
