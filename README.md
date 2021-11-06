@@ -1,5 +1,9 @@
 # Lavalink.js
 
+<a href="https://heroku.com/deploy?template=https://github.com/holasoyender/Lavalink.js">
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 
 ## Ubuntu / PM2
