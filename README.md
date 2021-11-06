@@ -18,11 +18,11 @@ Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 
 **3** Mover la carpeta descomprimida a la carpeta **opt** - ```sudo mv jdk-17 /opt/```
 
-**4** Establecer las variables del entorno -
-```
-export JAVA_HOME=/opt/jdk-17
-export PATH=$PATH:$JAVA_HOME/bin 
-source ~/.bashrc
-```
+**4** Establecer las variables del entorno (de una en una) -
+```export JAVA_HOME=/opt/jdk-17```
+```export PATH=$PATH:$JAVA_HOME/bin```
+```source ~/.bashrc```
 
-**5** Verificar la instalación - ```java --version``` (Debería de devolver `openjdk 17 ...`)
+**5** Verificar la instalación - ```java --version``` (Debería de devolver `openjdk version "17" ...`)
+
+OTA0MDAyMjE2MzcxODI2NzI4.YX1Lqw.tzltyaizkqU2UIl3aAPLNGN9eAc
