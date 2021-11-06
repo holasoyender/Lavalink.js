@@ -24,5 +24,3 @@ Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 ```source ~/.bashrc```
 
 **5** Verificar la instalación - ```java --version``` (Debería de devolver `openjdk version "17" ...`)
-
-OTA0MDAyMjE2MzcxODI2NzI4.YX1Lqw.tzltyaizkqU2UIl3aAPLNGN9eAc
