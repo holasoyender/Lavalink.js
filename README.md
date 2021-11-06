@@ -12,7 +12,9 @@ Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 
 **2** Entrar en la carpeta e instalar dependencias - ```cd Lavalink.js && npm install```
 
-**3** Iniciar PM2 como Lavalink - ```pm2 start bootstrap.js --name Lavalink --no-autorestart```
+**3** Configurar lavalink en el archivo `application.yml`
+
+**4** Iniciar PM2 como Lavalink - ```pm2 start bootstrap.js --name Lavalink --no-autorestart```
 
 # Dependencias
 
