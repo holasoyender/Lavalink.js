@@ -6,7 +6,7 @@
 
 Repositorio para iniciar Lavalink en **PM2**, **Heroku**, etc...
 
-## Ubuntu / PM2
+## Iniciar con PM2
 
 **1** Clonar el repositorio de GitHub - ```git clone https://github.com/holasoyender/Lavalink.js.git```
 
